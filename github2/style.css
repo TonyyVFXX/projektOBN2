@@ -60,14 +60,7 @@ header .bld{
     background-color: red;
     border-radius: 5px;
     color: white;
-    transition: transform 0.5s;
     transform: scale(0.8);
-}
-
-#zle:hover{
-    transform: scale(1.3);
-    border: 2px solid darkred;
-    background-color: darkred;
 }
 
 #dobre{
@@ -75,14 +68,7 @@ header .bld{
     background-color: green;
     border-radius: 5px;
     color: white;
-    transition: transform 0.5s;
     transform: scale(1.3);
-}
-
-#dobre:hover{
-    transform: scale(1);
-    border: 2px solid darkgreen;
-    background-color: darkgreen;
 }
 
 .bod h2{
